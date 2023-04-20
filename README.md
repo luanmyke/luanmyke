@@ -52,6 +52,5 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/luanmyke/luanmyke/blob/output/github-contribution-grid-snake.svg)
 
 ###
