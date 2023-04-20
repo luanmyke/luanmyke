@@ -52,6 +52,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/luanmyke/luanmyke/blob/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/luanmyke/luanmyke/blob/output/github-contribution-grid-snake.svg)
 
 ###
