@@ -1,8 +1,6 @@
 # 💫 Oi eu sou o Luan Myke, e sou um desenvolvedor e apaixonado em games.
 
-
-
-## 🌐 Socials:
+________________________________________________________________________________
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/luan_myke/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/luan-myke/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/mykeew) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://www.codewars.com/users/luanmyke) 
 
 # 💻 Tech Stack:
